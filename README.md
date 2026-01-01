@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is Mohamed Hassanein Labib (you often go by mo).<br><br>im a Java Backend Developer.<br><br>im mainly work with Spring Boot, SQL, JPA, JWT, and backend security concepts.<br><br>im a Computer Science graduate from Cairo University.
+my name is Mohamed Hassanein Labib .<br><br>i'm a Java Backend Developer.<br><br>i'm mainly work with Spring Boot, SQL, JPA, JWT, and backend security concepts.<br><br>im a Computer Science graduate from Cairo University.
 
 
 ## 🌐 Socials:
