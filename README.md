@@ -1,6 +1,12 @@
 # 💫 About Me:
-my name is Mohamed Hassanein Labib .<br><br>i'm a Java Backend Developer.<br><br>i'm mainly work with Spring Boot, SQL, JPA, JWT, and backend security concepts.<br><br>im a Computer Science graduate from Cairo University.
 
+I am a Computer Science student at Cairo University, expected to graduate in 2026.<br><br>
+
+I am a backend developer with experience in Object-Oriented Programming, Java, C++, Python, and JavaScript.<br><br>
+
+I have worked with databases such as MongoDB and SQL.<br><br>
+
+ and I am interested in backend scalability, problem solving, artificial intelligence, and software development.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohamedelzomor67) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed h elzomor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_elzomor47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/‏mohamed elzomor‏) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohmedelzomor679@gmail.com) 
