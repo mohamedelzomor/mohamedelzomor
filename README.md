@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a Computer Science student at Cairo University, expected to graduate in 2026.<br><br>
+I am a Computer Science student at Cairo University, expected to graduate in 2025.<br><br>
 
 I am a backend developer with experience in Object-Oriented Programming, Java, C++, Python, and JavaScript.<br><br>
 
